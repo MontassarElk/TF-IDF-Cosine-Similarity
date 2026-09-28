@@ -34,4 +34,4 @@ based on the search pattern. Before accessing the data to the users, it will fir
 index information and saves them to the database for their use.
 
 link 
-============>>> http://www-ens.iro.umontreal.ca/~elkollim/ift3225/tp4/
+============>>> http://www-ens.iro.umontreal.ca/~elkollim/
